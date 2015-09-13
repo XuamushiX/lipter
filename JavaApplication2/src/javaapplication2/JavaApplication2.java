@@ -21,6 +21,7 @@ public class JavaApplication2 {
         
         
         
+        
         String gen;
         
         int cont1=0,cont2=0,i=1,numest,cont3=0;
